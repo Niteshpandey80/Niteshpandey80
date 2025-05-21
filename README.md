@@ -1,4 +1,5 @@
-# 💫 About Me:
+# 💫 Nitesh Pandey:
+About Me :-
 🚀 MERN Stack Developer | Java DSA Enthusiast<br><br>💻 I specialize in building full-stack web applications using MongoDB, Express.js, React, and Node.js (MERN Stack).<br>📌 Passionate about writing efficient and scalable code.<br>📊 Exploring Data Structures & Algorithms (DSA) in Java to solve complex problems.<br>🎥 Also sharing knowledge through YouTube tutorials on web development.
 
 
