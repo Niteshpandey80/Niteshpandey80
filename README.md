@@ -1,6 +1,9 @@
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+
 # 💫 About Me:
 🔭 I’m currently working on: Enter your project info here<br>🌱 I’m currently learning: Enter your tech here<br>👯 I’m looking to collaborate on: Enter your project name and info<br>🤔 I’m looking for help with: Your project here<br>💬 Ask me about: Collaboration, Tech Support<br>📫 How to reach me: Enter your email here<br>😄 Pronouns: Nitesh Pandey<br>⚡ Fun fact: I Love Tech and Tech Love Me
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_codinghub) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nitesh-pandey-a56387267) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@the_Codinghubb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:neeteshpandey@8085gmail.com) 
