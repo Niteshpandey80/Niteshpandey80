@@ -3,10 +3,23 @@
 
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 
-# 💫 About Me: 
-🔭 I’m currently working on: Enter your project info here<br>🌱 I’m currently learning: Enter your tech here<br>👯 I’m looking to collaborate on: Enter your project name and info<br>🤔 I’m looking for help with: Your project here<br>💬 Ask me about: Collaboration, Tech Support<br>📫 How to reach me: Enter your email here<br>😄 Pronouns: Nitesh Pandey<br>⚡ Fun fact: I Love Tech and Tech Love Me <div style="margin-top: 40px; text-align: right;">
-  <img alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <div style="max-width: 600px;">
+    <h2>💫 About Me</h2>
+    <p>🔭 I’m currently working on: <strong>Full Stack Development</strong></p>
+    <p>🌱 I’m currently learning: <strong>Data Structures & Algorithms</strong></p>
+    <p>👯 I’m looking to collaborate on: <strong>Innovative and impactful tech projects</strong></p>
+    <p>🤔 I’m looking for help with: <strong>Advanced backend systems, DevOps</strong></p>
+    <p>💬 Ask me about: <strong>Collaboration, Full Stack Tech, Career Tips</strong></p>
+    <p>📫 How to reach me: <strong><a href="mailto:niteshpandey8085@gmail.com">niteshpandey8085@gmail.com</a></strong></p>
+    <p>😄 Pronouns: <strong>Nitesh Pandey</strong></p>
+    <p>⚡ Fun fact: <strong>I Love Tech — and Tech Loves Me Back!</strong></p>
+    <p>🌐 Portfolio: <a href="https://my-portfolio-website-5494.vercel.app/" target="_blank">Visit My Website</a></p>
+  </div>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="Coding" style="border-radius: 10px;" />
 </div>
+
 
 
 
